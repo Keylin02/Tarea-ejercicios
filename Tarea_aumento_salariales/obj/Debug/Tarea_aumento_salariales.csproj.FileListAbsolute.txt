@@ -1,0 +1,7 @@
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\bin\Debug\Tarea_aumento_salariales.exe.config
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\bin\Debug\Tarea_aumento_salariales.exe
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\bin\Debug\Tarea_aumento_salariales.pdb
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\obj\Debug\Tarea_aumento_salariales.csproj.AssemblyReference.cache
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\obj\Debug\Tarea_aumento_salariales.csproj.CoreCompileInputs.cache
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\obj\Debug\Tarea_aumento_salariales.exe
+C:\Users\kdalo\OneDrive\Documentos\programación 2\Tarea_aumento_salariales\obj\Debug\Tarea_aumento_salariales.pdb

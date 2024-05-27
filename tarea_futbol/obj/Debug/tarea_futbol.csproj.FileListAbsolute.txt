@@ -1,0 +1,7 @@
+C:\Users\kdalo\source\repos\tarea_futbol\obj\Debug\tarea_futbol.csproj.AssemblyReference.cache
+C:\Users\kdalo\source\repos\tarea_futbol\obj\Debug\tarea_futbol.csproj.CoreCompileInputs.cache
+C:\Users\kdalo\source\repos\tarea_futbol\bin\Debug\tarea_futbol.exe.config
+C:\Users\kdalo\source\repos\tarea_futbol\bin\Debug\tarea_futbol.exe
+C:\Users\kdalo\source\repos\tarea_futbol\bin\Debug\tarea_futbol.pdb
+C:\Users\kdalo\source\repos\tarea_futbol\obj\Debug\tarea_futbol.exe
+C:\Users\kdalo\source\repos\tarea_futbol\obj\Debug\tarea_futbol.pdb
